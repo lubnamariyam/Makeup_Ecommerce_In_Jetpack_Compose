@@ -127,4 +127,5 @@ fun BottomBar(navController: NavController) {
 @Composable
 fun HomeContent(){
 
+    println("")
 }
